@@ -1,6 +1,5 @@
 <h1 align="center">Emerging-network-of-care-for-enesian-women</h1>
 
-![img1](./img/Red_emergente.jpg)
 ## Author 
 - [Ashley Dafne Aguilar Salinas - UNAM ENES Morelia](https://github.com/AshleyDafneAguilar)
 
@@ -14,3 +13,5 @@ Here I will upload some of the contributions that I will be developing as a memb
 The following work aims to map the risk zones around the UNAM, ENES Morelia. These data were collected thanks to the participation of students, professors and academic staff according to their experiences. 
 
 The file containing this information is located inside the folder **dataset**
+
+![img1](./img/Red_emergente.jpg)
