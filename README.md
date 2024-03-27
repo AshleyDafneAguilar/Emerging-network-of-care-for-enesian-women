@@ -10,8 +10,10 @@ This group is made up of teachers and students from different careers on campus.
 Here I will upload some of the contributions that I will be developing as a member of this network. 
 
 ## Recent activities
-The following work aims to map the risk zones around the UNAM, ENES Morelia. These data were collected thanks to the participation of students, professors and academic staff according to their experiences. 
+The following work aims to map the risk zones around UNAM, ENES Morelia. These data were collected thanks to the participation of students, professors and academic staff of the University according to their experiences.
+To achieve the mapping of the risk zones we made use of libraries and functions such as pandas, pandas.ExcelFile, geopandas, numpy, matplotlib.pyplot, etc. from Python
 
-The file containing this information is located inside the folder **dataset**
+**Note:**
+*The file containing the risk zones is an Excel file (.xlsx extension) located inside the dataset folder.*
 
 ![img1](./img/Red_emergente.jpg)
