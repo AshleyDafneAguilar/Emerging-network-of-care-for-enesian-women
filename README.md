@@ -1,6 +1,6 @@
 <h1 align="center">Emerging-network-of-care-for-enesian-women</h1>
 
-![img1](./img/Red_emergente.jpg)
+![img1](./img/emergingnetwork.jpg)
 
 ## Author 
 - [Ashley Dafne Aguilar Salinas - UNAM ENES Morelia](https://github.com/AshleyDafneAguilar)
