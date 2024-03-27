@@ -1,5 +1,7 @@
 <h1 align="center">Emerging-network-of-care-for-enesian-women</h1>
 
+![img1](./img/Red_emergente.jpg)
+
 ## Author 
 - [Ashley Dafne Aguilar Salinas - UNAM ENES Morelia](https://github.com/AshleyDafneAguilar)
 
@@ -14,7 +16,7 @@ The following work aims to map the risk zones around UNAM, ENES Morelia. These d
 To achieve the mapping of the risk zones we made use of libraries and functions such as pandas, pandas.ExcelFile, geopandas, numpy, matplotlib.pyplot, etc. from Python.
 
 
-![img1](./img/mapping_riskpoints.png)
+![img2](./img/mapping_riskpoints.png)
 
 **Note:**
 *The file containing the risk zones is an Excel file (.xlsx extension) located inside the dataset folder.*
