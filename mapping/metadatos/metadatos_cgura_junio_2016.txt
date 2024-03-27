@@ -1,0 +1,28 @@
+Identifier: 
+
+Title: Cartografía Geoestadística Urbana y Rural Amanzanada. Junio 2016.
+
+Description: El conjunto de Localidades Amanzanadas es de 55,383 de las cuales 4,562 son urbanas y 50,821 rurales. Estas representaciones digitales, corresponden al cierre de la Encuesta Intercensal 2015, y cada Localidad Amanzanada contiene límites y claves del Área Geoestadística Básica (AGEB), polígonos de Manzana y polígono(s) envolventes de la localidad correspondiente; también contiene nombres de calle, rasgos culturales y naturales (cuerpos de agua), principales vías de acceso a la localidad y la ubicación de los principales servicios (iglesia, escuela, asistencia médica, palacio municipal o ayudantía, mercado, cementerio y plaza o jardín). Todos los elementos contienen atributos (claves geoestadísticas, fecha de actualización, nombre del elemento geográfico, entre otros). La identificación de las Localidades Amanzanadas está conformada por una clave de 9 dígitos de los cuales los 2 primeros corresponden al estado, los 3 siguientes al municipio y los 4 restantes a la localidad (EEMMMLLLL). 
+
+Modified: Cierre de la Encuesta Intercensal (Irregular).
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI.
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: Términos de Libre Uso de la Información del INEGI http://www.inegi.org.mx/terminos/terminos_info.aspx
+
+DataDictionary: http://www3.inegi.org.mx/sistemas/biblioteca/ficha.aspx?upc=702825209025
+
+Keyword: Aguascalientes (01), Baja California (02), Baja California Sur (03), Campeche (04), Coahuila de Zaragoza (05), Colima (06), Chiapas (07), Chihuahua (08), Distrito Federal (09), Durango (10), Guanajuato (11), Guerrero (12), Hidalgo (13), Jalisco (14), México (15), Michoacán de Ocampo (16), Morelos (17), Nayarit (18), Nuevo León (19), Oaxaca (20), Puebla (21), Querétaro (22), Quintana Roo (23), San Luis Potosí (24), Sinaloa (25), Sonora (26), Tabasco (27), Tamaulipas (28), Tlaxcala (29), Veracruz de Ignacio de la Llave (30), Yucatán (31), Zacatecas (32), Acueducto, Aeródromo Civil, AGEB, Área Verde, Bordo, Camellón, Canal, Cartografía Geoestadística, Cementerio, Centro Comercial, Centro de Asistencia Médica, Corriente de Agua, Cuerpo de Agua, Edificación, Escuela, Estación del Metro, Estanque, Estructura Elevada, Faro/Radiofaro/Vor, Instalación de Bombeo, Instalación de Comunicación, Instalación Deportiva o Recreativa, Instalación Diversa, Instalación Portuaria, Instalación de Bombeo, Lindero, Línea de Costa, Línea de Transmisión, Línea de Tren Metropolitano, Manantial, Manzana, Mercado, Palacio de Gobierno, Paso a Desnivel, Pista de Aviación, Pista de Carreras, Plaza, Pozo, Presa, Puente, Rasgo Arqueológico, Subestación Eléctrica, Tanque, Tanque de Agua, Templo, Túnel, Vía Férrea, Zona Arenosa
+
+ContactPoint: Lic. José de Jesús Esquivel de la Rosa, 01800 111 4634.
+
+Temporal: Cierre de la Encuesta Intercensal (Irregular).
+
+Spatial: Estados Unidos Mexicanos.
+
+AccrualPeriodicity: Cierre de la Encuesta Intercensal (Irregular).
+
+Distribution: http://www3.inegi.org.mx/sistemas/biblioteca/ficha.aspx?upc=702825209025
+

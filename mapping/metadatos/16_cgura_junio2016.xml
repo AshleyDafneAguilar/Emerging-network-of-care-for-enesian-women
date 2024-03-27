@@ -1,0 +1,389 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<Metadata>
+<MD_DataIdentification>
+<title>Cartografía Geoestadística Urbana y Rural Amanzanada. Junio 2016.</title>
+<purpose>La cartografía de las localidades Urbanas y Rurales Amanzanadas son  utilizadas en diferentes etapas como son la planeación, levantamiento y presentación de resultados. El uso de la cartografía  permite la elaboración de cartografía temática de acuerdo a los resultados censales definitivos, la cual se presenta en Sistemas de Información Geográfica (SIG) y medios digitales. 
+
+</purpose>
+<abstract>El conjunto de Localidades Amanzanadas es de 55,383 de las cuales 4,562 son urbanas y 50,821 rurales. Estas representaciones digitales, corresponden al corte de abril de 2016 del Marco Geoestadístico, y cada Localidad Amanzanada contiene límites y claves del Área Geoestadística Básica (AGEB), polígonos de Manzana y polígono(s) envolventes de la localidad correspondiente; también contiene nombres de calle, rasgos culturales y naturales (cuerpos de agua), y la ubicación de los principales servicios (iglesia, escuela, asistencia médica, palacio municipal o ayudantía, mercado, cementerio y plaza o jardín). Todos los elementos contienen atributos (claves geoestadísticas, fecha de actualización, nombre del elemento geográfico, entre otros). La identificación de las Localidades Amanzanadas está conformada por una clave de 9 dígitos de los cuales los 2 primeros corresponden al estado, los 3 siguientes al municipio y los 4 restantes a la localidad (EEMMMLLLL). </abstract>
+<MD_DataIdentification_language>ES - Español.</MD_DataIdentification_language>
+<topicCategory>
+<principalTopic>11. Localización: Información posicional y servicios.  </principalTopic>
+<groupCategory>6. Grupo de datos de límites costeros, internacionales, estatales y municipales: Subdivisión de la Infraestructura de Datos Espaciales de México que representa las fronteras de los espacios territoriales contenedores de datos e información.</groupCategory>
+</topicCategory>
+<keyword>Michoacán (16)</keyword>
+<type>2. Lugar: La palabra clave identifica un lugar o ubicación cubierto por el conjunto de datos espaciales o producto.</type>
+<keyword>Cartografía Geoestadística</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<thesaurusName> </thesaurusName>
+<edition> </edition>
+<presentationForm>  5. Mapa digital: Mapa representado en formato raster o vector.</presentationForm>
+<CI_OnlineResource>
+<CI_OnlineResource_linkage>http://www.inegi.org.mx/</CI_OnlineResource_linkage>
+<CI_OnlineResource_description> </CI_OnlineResource_description>
+</CI_OnlineResource>
+<maintenanceAndUpdateFrequency>  8. Irregular: Los datos se actualizan en intervalos desiguales en duración. </maintenanceAndUpdateFrequency>
+<MD_DataIdentification_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</MD_DataIdentification_characterSet>
+<graphfilename>Cartografía_Geoestadística.JPG</graphfilename>
+<specuse>La Dirección General de Estadísticas Sociodemográficas y la Dirección General de Estadísticas Económicas del INEGI usan la cartografía Geoestadística, para la planeación, levantamiento, tratamiento y difusión de la información estadística de los censos y encuestas que realiza el instituto, manteniendo actualizada la información contenida en los materiales cartográficos, garantizando con ello la cobertura y la correcta georreferencia.
+ 
+</specuse>
+</MD_DataIdentification>
+<CI_Date>
+<Dates_Events>
+<date>2016-05-31</date>
+<dateType>1. Creación: Indicador  de la fecha que especifica cuando fue creado el recurso.</dateType>
+</Dates_Events>
+<Ad_Date>
+<date_creation></date_creation>
+<date_begin></date_begin>
+<date_end></date_end>
+<inpname></inpname>
+</Ad_Date>
+</CI_Date>
+<CI_ResponsibleParty>
+<CI_ResponsibleParty_individualName>Lic. José de Jesús Esquivel de la Rosa.</CI_ResponsibleParty_individualName>
+<CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI.</CI_ResponsibleParty_organisationName>
+<CI_ResponsibleParty_positionName>Subdirector de Atención a Usuarios.</CI_ResponsibleParty_positionName>
+<CI_ResponsibleParty_voice>(449)9105300 Ext. 5301. Lada 01 800 111 46 34 (sin costo).</CI_ResponsibleParty_voice>
+<CI_ResponsibleParty_facsimile></CI_ResponsibleParty_facsimile>
+<CI_ResponsibleParty_deliveryPoint>Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.</CI_ResponsibleParty_deliveryPoint>
+<CI_ResponsibleParty_city>Aguascalientes.</CI_ResponsibleParty_city>
+<CI_ResponsibleParty_administrativeArea>Aguascalientes.</CI_ResponsibleParty_administrativeArea>
+<CI_ResponsibleParty_postalCode>20276.</CI_ResponsibleParty_postalCode>
+<CI_ResponsibleParty_country>México.</CI_ResponsibleParty_country>
+<CI_ResponsibleParty_electronicMailAddress>atencion.usuarios@inegi.org.mx</CI_ResponsibleParty_electronicMailAddress>
+<CI_ResponsibleParty_linkage>http://www.inegi.org.mx/</CI_ResponsibleParty_linkage>
+<CI_ResponsibleParty_role>  5. Distribuidor: Parte que distribuye el recurso.</CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<CI_ResponsibleParty>
+<CI_ResponsibleParty_individualName>Lic. Mario Rubén Chavarría Espinosa </CI_ResponsibleParty_individualName>
+<CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI. </CI_ResponsibleParty_organisationName>
+<CI_ResponsibleParty_positionName>Director de Límites y Marco Geoestadístico</CI_ResponsibleParty_positionName>
+<CI_ResponsibleParty_voice>(449)9105300 Ext. 5310</CI_ResponsibleParty_voice>
+<CI_ResponsibleParty_facsimile></CI_ResponsibleParty_facsimile>
+<CI_ResponsibleParty_deliveryPoint>Av. Héroe de Nacozari Sur Núm. 2301. Fracc. Jardines del Parque</CI_ResponsibleParty_deliveryPoint>
+<CI_ResponsibleParty_city>Aguascalientes</CI_ResponsibleParty_city>
+<CI_ResponsibleParty_administrativeArea>Aguascalientes</CI_ResponsibleParty_administrativeArea>
+<CI_ResponsibleParty_postalCode>20276</CI_ResponsibleParty_postalCode>
+<CI_ResponsibleParty_country>México</CI_ResponsibleParty_country>
+<CI_ResponsibleParty_electronicMailAddress>mario.chavarria@inegi.org.mx</CI_ResponsibleParty_electronicMailAddress>
+<CI_ResponsibleParty_linkage>http://www.inegi.org.mx/</CI_ResponsibleParty_linkage>
+<CI_ResponsibleParty_role>  3. Propietario: Parte que es dueño del recurso.</CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<CI_ResponsibleParty>
+<CI_ResponsibleParty_individualName>Geóg. Miguel Alonso Herrera Canto</CI_ResponsibleParty_individualName>
+<CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI</CI_ResponsibleParty_organisationName>
+<CI_ResponsibleParty_positionName>Subdirector del Marco Geoestadístico </CI_ResponsibleParty_positionName>
+<CI_ResponsibleParty_voice>(449)9105300 Ext. 5101</CI_ResponsibleParty_voice>
+<CI_ResponsibleParty_facsimile></CI_ResponsibleParty_facsimile>
+<CI_ResponsibleParty_deliveryPoint>Av. Héroe de Nacozari Sur Núm. 2301. Fracc. Jardines del Parque</CI_ResponsibleParty_deliveryPoint>
+<CI_ResponsibleParty_city>Aguascalientes</CI_ResponsibleParty_city>
+<CI_ResponsibleParty_administrativeArea>Aguascalientes</CI_ResponsibleParty_administrativeArea>
+<CI_ResponsibleParty_postalCode>20276</CI_ResponsibleParty_postalCode>
+<CI_ResponsibleParty_country>México</CI_ResponsibleParty_country>
+<CI_ResponsibleParty_electronicMailAddress>miguel.herrera@inegi.org.mx</CI_ResponsibleParty_electronicMailAddress>
+<CI_ResponsibleParty_linkage>http://www.inegi.org.mx/</CI_ResponsibleParty_linkage>
+<CI_ResponsibleParty_role>  7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.</CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<westBoundLongitude>-103.737701677</westBoundLongitude>
+<eastBoundLongitude>-100.0955584</eastBoundLongitude>
+<southBoundLatitude>17.9150194769</southBoundLatitude>
+<northBoundLatitude>20.3809141077</northBoundLatitude>
+</EX_GeographicBoundingBox>
+<spatialRepresentationType>1. Vector: Los datos vectoriales se utilizan para representar datos espaciales.</spatialRepresentationType>
+</geographicElement>
+<MD_ReferenceSystem>
+<ReferenceHorizontalSystem>
+<geograph>
+<latres></latres>
+<longres></longres>
+<geogunit></geogunit>
+</geograph>
+<planar>
+<mapprojn>
+<lambertc>
+<lambertc_stdparll>17.5</lambertc_stdparll>
+<lambertc_stdparll>29.5</lambertc_stdparll>
+<lambertc_longcm>-102.0</lambertc_longcm>
+<lambertc_latprjo>12.0</lambertc_latprjo>
+<lambertc_feast>2500000.0</lambertc_feast>
+<lambertc_fnorth>0.0</lambertc_fnorth>
+</lambertc>
+<mercatort>
+<mercatort_sfctrmer> </mercatort_sfctrmer>
+<mercatort_longcm> </mercatort_longcm>
+<mercatort_latprjo> </mercatort_latprjo>
+<mercatort_feast> </mercatort_feast>
+<mercatort_fnorth> </mercatort_fnorth>
+</mercatort>
+<mercator>
+<mercator_stdparll> </mercator_stdparll>
+<mercator_sfec> </mercator_sfec>
+<mercator_longcm> </mercator_longcm>
+<mercator_feast> </mercator_feast>
+<mercator_fnorth> </mercator_fnorth>
+</mercator>
+<tme>
+<tme_sfctrmer> </tme_sfctrmer>
+<tme_longcm> </tme_longcm>
+<tme_latprjo> </tme_latprjo>
+<tme_feast> </tme_feast>
+<tme_fnorth> </tme_fnorth>
+</tme>
+<anoth_proj_def>
+</anoth_proj_def>
+</mapprojn>
+<gridcoordinatessystem>
+<utm>
+<utm_zone></utm_zone>
+<utm_sfctrmer></utm_sfctrmer>
+<utm_longcm></utm_longcm>
+<utm_latprjo></utm_latprjo>
+<utm_feast></utm_feast>
+<utm_fnorth></utm_fnorth>
+</utm>
+</gridcoordinatessystem>
+<local_planar>
+<local_planar_desc></local_planar_desc>
+<local_planar_geo_inf></local_planar_geo_inf>
+</local_planar>
+<planci>
+<plance>Par coordenado.</plance>
+<coord_repres>
+<absres>0.00000001</absres>
+<ordres>0.00000001</ordres>
+</coord_repres>
+<distance_and_bearing_repres>
+<distance_res></distance_res>
+<bearing_res></bearing_res>
+<bearing_uni></bearing_uni>
+<ref_bearing_dir></ref_bearing_dir>
+<ref_bearing_mer></ref_bearing_mer>
+</distance_and_bearing_repres>
+<plandu>Metros.</plandu>
+</planci>
+</planar>
+<local_coordinates>
+<local_desc></local_desc>
+<local_geo_inf></local_geo_inf>
+</local_coordinates>
+<geodetic>
+<horizdn>ITRF08 época 2010.0.</horizdn>
+<ellips>Sistema Geodésico de Referencia de 1980 (GRS80).</ellips>
+<semiaxis>6378137.0</semiaxis>
+<denflat>298.257222101</denflat>
+</geodetic>
+</ReferenceHorizontalSystem>
+<ReferenceVerticalSystem>
+<altsys>
+<altdatum></altdatum>
+<altres></altres>
+<altunits></altunits>
+<altenc> </altenc>
+</altsys>
+<depthsys>
+<depthdn></depthdn>
+<depthres></depthres>
+<depthdu></depthdu>
+<depthem> </depthem>
+</depthsys>
+</ReferenceVerticalSystem>
+</MD_ReferenceSystem>
+<DQ_DataQuality>
+<DQ_Scope>
+<level>17. Producto: Información aplicada al producto.</level>
+</DQ_Scope>
+<report>
+<DQ_Completeness>
+<DQ_Completeness_evalqualsubname>
+<DQ_Completeness_nameOfMeasure></DQ_Completeness_nameOfMeasure>
+<DQ_Completeness_measureDescription></DQ_Completeness_measureDescription>
+<DQ_Completeness_result>
+<DQ_Completeness_DQ_QuantitativeResult>
+<DQ_Completeness_valueUnit></DQ_Completeness_valueUnit>
+<DQ_Completeness_value></DQ_Completeness_value></DQ_Completeness_DQ_QuantitativeResult>
+</DQ_Completeness_result>
+</DQ_Completeness_evalqualsubname>
+</DQ_Completeness>
+<DQ_LogicConsistency>
+<DQ_LogicConsistency_evalqualsubname>
+<DQ_LogicConsistency_nameOfMeasure></DQ_LogicConsistency_nameOfMeasure>
+<DQ_LogicConsistency_measureDescription></DQ_LogicConsistency_measureDescription>
+<DQ_LogicConsistency_result>
+<DQ_LogicConsistency_DQ_QuantitativeResult>
+<DQ_LogicConsistency_valueUnit></DQ_LogicConsistency_valueUnit>
+<DQ_LogicConsistency_value></DQ_LogicConsistency_value></DQ_LogicConsistency_DQ_QuantitativeResult>
+</DQ_LogicConsistency_result>
+</DQ_LogicConsistency_evalqualsubname>
+</DQ_LogicConsistency>
+<PositionalAccuracy>
+<PositionalAccuracy_evalqualsubname>
+<PositionalAccuracy_nameOfMeasure></PositionalAccuracy_nameOfMeasure>
+<PositionalAccuracy_measureDescription></PositionalAccuracy_measureDescription>
+<PositionalAccuracy_result>
+<PositionalAccuracy_DQ_QuantitativeResult>
+<PositionalAccuracy_valueUnit></PositionalAccuracy_valueUnit>
+<PositionalAccuracy_value></PositionalAccuracy_value></PositionalAccuracy_DQ_QuantitativeResult>
+</PositionalAccuracy_result>
+</PositionalAccuracy_evalqualsubname>
+</PositionalAccuracy>
+<TemporalAccuracy>
+<TemporalAccuracy_evalqualsubname>
+<TemporalAccuracy_nameOfMeasure></TemporalAccuracy_nameOfMeasure>
+<TemporalAccuracy_measureDescription></TemporalAccuracy_measureDescription>
+<TemporalAccuracy_result>
+<TemporalAccuracy_DQ_QuantitativeResult>
+<TemporalAccuracy_valueUnit></TemporalAccuracy_valueUnit>
+<TemporalAccuracy_value></TemporalAccuracy_value></TemporalAccuracy_DQ_QuantitativeResult>
+</TemporalAccuracy_result>
+</TemporalAccuracy_evalqualsubname>
+</TemporalAccuracy>
+<ThematicAccuracy>
+<ThematicAccuracy_evalqualsubname>
+<ThematicAccuracy_nameOfMeasure></ThematicAccuracy_nameOfMeasure>
+<ThematicAccuracy_measureDescription></ThematicAccuracy_measureDescription>
+<ThematicAccuracy_result>
+<ThematicAccuracy_DQ_QuantitativeResult>
+<ThematicAccuracy_valueUnit></ThematicAccuracy_valueUnit>
+<ThematicAccuracy_value></ThematicAccuracy_value></ThematicAccuracy_DQ_QuantitativeResult>
+</ThematicAccuracy_result>
+</ThematicAccuracy_evalqualsubname>
+</ThematicAccuracy>
+</report>
+<LI_Lineage>
+<statement>El Departamento de Marco Geoestadístico Urbano genera el documento con las especificaciones técnicas de las Localidades Urbanas, el cual se envía a las 10 Direcciones Regionales y Coordinaciones Estatales del INEGI, para su aplicación. Al finalizar las actualizaciones de la información, al cierre de cada evento censal, las Direcciones Regionales envían la información digital al Departamento del Marco Geoestadístico Urbano en Oficinas Centrales, para su revisión y validación cualitativa y cuantitativa, así como para su concentración a nivel nacional.  </statement>
+<LI_ProcessStep>
+<LI_ProcessStep_description>1.- El Departamento del Marco Geoestadístico Urbano genera el documento metodológico con las características y especificaciones de los productos cartográficos y las aplicaciones para la validación estatal y regional de la información.
+2.- Las especificaciones y las aplicaciones se depositan en una ruta ftp para su uso y aplicación a nivel regional y estatal.
+3.- Los Departamentos Estatales de Actualización Básica actualizan la información cartográfica en campo, actividad de gran importancia ya que permite mantener vigente la información contenida en los materiales cartográficos, garantizando con ello la cobertura y la correcta referencia geográfica.
+4.- Los Departamentos Estatales de Actualización Básica actualizan y asignan claves a los nuevos elementos Geoestadísticos, digitalizan y clasifican la información en formato digital.
+5.- Los Departamentos Estatales de Actualización Básica se aseguran, mediante validación que la cartografía cumpla con las especificaciones cualitativas y cuantitativas; una vez que cumplió el control de calidad al 100% la información es traída de manera automática a oficinas centrales, para su integración y revisión a nivel estatal y nacional.
+6.- En Oficinas Centrales se tomó una muestra aleatoria estatal de la información recibida para verificar que esté correctamente georreferenciada y verificar que cumpla con todos los requerimientos metodológicos del evento.
+7.- Las inconsistencias encontradas son notificadas y regresadas a los Departamentos encargados del Marco Geoestadístico de la Dirección Regional correspondiente para su corrección. 
+8.- Una vez que liberan las Localidades, se procede a la generación de los formatos para su distribución a los usuarios externos e internos y al respaldo de la información.  
+</LI_ProcessStep_description>
+<LI_ProcessStep_description>Completitud
+Omisión (ausencias indebidas)
+Se realizó una confronta contra el Catalogo de Integral General de Localidades (CIGEL),  se tomaron todas las localidades Urbanas y Rurales que contengan manzanas. Existe el 100%, sin que se permita una localidad como faltante. 
+Topológica
+Cumplir reglas topológicas.
+Con sistema automatizado se verificó que NO existan duplicidad de polígonos, líneas y puntos.
+Traslapes y huecos. El resultado cuantitativo es hasta un metro de tolerancia.
+Temática
+Validación tabular y de atributos.
+Con sistema automatizado se comprobó que los valores de atributo correspondieran con el dominio establecido en el diccionario de datos. Existe el 100% sin faltantes.
+Posicional
+Se realiza una confronta del conjunto vectorial contra imágenes de  satélite; obteniendo el 100% en su posición verdadera.</LI_ProcessStep_description>
+</LI_ProcessStep>
+<LI_Source>
+<LI_Source_description>Cartografía Geoestadística Urbana y Rural Amanzanada. Cierre de la Encuesta Intercensal 2015.</LI_Source_description>
+</LI_Source>
+</LI_Lineage>
+</DQ_DataQuality>
+<Attributes>
+<schemaAscii>Los rasgos geográficos representados se definen como entidades con un componente de representación geométrica y un componente con atributos que los
+describen. Se le asocia un nombre con el fin de distinguirla de otras entidades (Manzana, AGEB, etc.)</schemaAscii>
+<entity_detail>
+ESTADO 16
+   TIPO DE ENTIDAD                         	PUNTO	LINEA	AREA	TOTAL
+Acueducto                                	0	4	0	4
+Aeródromo Civil                         	0	0	1	1
+Bordo                                    	0	2	0	2
+Bordo                                    	0	0	866	866
+Camellón                                	0	0	2842	2842
+Canal                                    	0	3253	0	3253
+Cementerio                               	0	0	8	8
+Cementerio                               	659	0	0	659
+Centro Comercial                         	17	0	0	17
+Centro de Asistencia Médica             	0	0	2	2
+Centro de Asistencia Médica             	1450	0	0	1450
+Conducto                                 	0	10	0	10
+Corriente de Agua                        	0	12285	0	12285
+Cuerpo de Agua                           	0	0	110	110
+Depósito de Desechos                    	2	0	0	2
+Edificación                             	3	0	0	3
+Edificación                             	0	0	11	11
+Escuela                                  	0	0	18	18
+Escuela                                  	8195	0	0	8195
+Estanque                                 	1	0	0	1
+Estanque                                 	0	0	23	23
+Estructura Elevada                       	71	0	0	71
+Faro/Radiofaro/VOR                       	2	0	0	2
+Frente de Manzana                        	0	504386	0	504386
+Instalación Deportiva o Recreativa      	0	0	589	589
+Instalación Deportiva o Recreativa      	3852	0	0	3852
+Instalación Diversa                     	0	0	44	44
+Instalación Diversa                     	87	0	0	87
+Instalación Industrial                  	0	0	3	3
+Instalación Portuaria                   	0	2	0	2
+Instalación de Bombeo                   	0	0	1	1
+Instalación de Bombeo                   	29	0	0	29
+Instalación de Comunicación            	340	0	0	340
+Lindero                                  	0	605	0	605
+Localidad                                	0	0	2709	2709
+Línea de Costa                          	0	12	0	12
+Línea de Transmisión                   	0	11	0	11
+Línea de Tren Metropolitano             	0	1	0	1
+Manantial                                	47	0	0	47
+Mercado                                  	0	0	1	1
+Mercado                                  	209	0	0	209
+Palacio de Gobierno                      	0	0	2	2
+Palacio de Gobierno                      	360	0	0	360
+Paso a Desnivel                          	0	20	0	20
+Pista de Aviación                       	0	0	2	2
+Pista de Aviación                       	0	2	0	2
+Plaza                                    	0	0	183	183
+Plaza                                    	1628	0	0	1628
+Pozo                                     	821	0	0	821
+Presa                                    	0	0	26	26
+Presa                                    	0	97	0	97
+Puente                                   	0	6336	0	6336
+Rasgo Arqueológico                      	3	0	0	3
+Subestación Eléctrica                  	0	0	2	2
+Subestación Eléctrica                  	4	0	0	4
+Tanque                                   	2	0	0	2
+Tanque de Agua                           	0	0	5	5
+Tanque de Agua                           	2573	0	0	2573
+Templo                                   	0	0	2	2
+Templo                                   	3903	0	0	3903
+Vialidad                                 	0	294612	0	294612
+Vía Férrea                             	0	184	0	184
+Área Geoestadística Básica            	0	0	2667	2667
+Área Verde                              	0	0	211	211
+                                         	24258	821822	10328	856408
+</entity_detail>
+</Attributes>
+<MD_Distribution>
+<accessConstraints>8. Acceso al público a través de Internet y los Centros de Información del Instituto Nacional de Estadística y Geografía - INEGI</accessConstraints>
+<useConstraints>8. Ninguna</useConstraints>
+<otherConstraints>El INEGI, no se hace responsable del uso que usted le dé a los datos</otherConstraints>
+<MD_Format>
+<name> Shape</name>
+<version>No aplica</version>
+</MD_Format>
+</MD_Distribution>
+<Inf_Metadata>
+<metadataStandardName>ISO 19115 Información Geográfica - Metadatos (Norma Técnica para Metadatos).</metadataStandardName>
+<metadataStandardVersion>2003 (1.0).</metadataStandardVersion>
+<Inf_Metadata_language>ES - Español.</Inf_Metadata_language>
+<CI_ResponsibleParty>
+<Inf_Metadata_CI_ResponsibleParty_individualName>Lic. Rafael Arrioja Urzúa.</Inf_Metadata_CI_ResponsibleParty_individualName>
+<Inf_Metadata_CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI.</Inf_Metadata_CI_ResponsibleParty_organisationName>
+<Inf_Metadata_CI_ResponsibleParty_positionName>Jefe del Departamento de Administración de Metadatos.</Inf_Metadata_CI_ResponsibleParty_positionName>
+<Inf_Metadata_CI_ResponsibleParty_voice>(449)9105300 Ext. 1750 y 5631.</Inf_Metadata_CI_ResponsibleParty_voice>
+<Inf_Metadata_CI_ResponsibleParty_facsimile></Inf_Metadata_CI_ResponsibleParty_facsimile>
+<Inf_Metadata_CI_ResponsibleParty_deliveryPoint>Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.</Inf_Metadata_CI_ResponsibleParty_deliveryPoint>
+<Inf_Metadata_CI_ResponsibleParty_city>Aguascalientes.</Inf_Metadata_CI_ResponsibleParty_city>
+<Inf_Metadata_CI_ResponsibleParty_administrativeArea>Aguascalientes.</Inf_Metadata_CI_ResponsibleParty_administrativeArea>
+<Inf_Metadata_CI_ResponsibleParty_postalCode>20276</Inf_Metadata_CI_ResponsibleParty_postalCode>
+<Inf_Metadata_CI_ResponsibleParty_country>México</Inf_Metadata_CI_ResponsibleParty_country>
+<Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>rafael.arrioja@inegi.org.mx</Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>
+<Inf_Metadata_CI_ResponsibleParty_role>  7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.</Inf_Metadata_CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<dateStamp>2016-07-04</dateStamp>
+<Inf_Metadata_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</Inf_Metadata_characterSet>
+</Inf_Metadata>
+</Metadata>

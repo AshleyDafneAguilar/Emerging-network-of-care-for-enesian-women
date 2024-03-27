@@ -1,0 +1,565 @@
+SECCIÓN 1. Identificación del conjunto de datos espaciales o producto:
+
+1.1 Título del conjunto de datos espaciales o producto: Cartografía Geoestadística Urbana y Rural Amanzanada. Junio 2016.
+
+1.2 Propósito: La cartografía de las localidades Urbanas y Rurales Amanzanadas son  utilizadas en diferentes etapas como son la planeación, levantamiento y presentación de resultados. El uso de la cartografía  permite la elaboración de cartografía temática de acuerdo a los resultados censales definitivos, la cual se presenta en Sistemas de Información Geográfica (SIG) y medios digitales. 
+
+
+
+1.3 Descripción del conjunto de datos espaciales o producto: El conjunto de Localidades Amanzanadas es de 55,383 de las cuales 4,562 son urbanas y 50,821 rurales. Estas representaciones digitales, corresponden al corte de abril de 2016 del Marco Geoestadístico, y cada Localidad Amanzanada contiene límites y claves del Área Geoestadística Básica (AGEB), polígonos de Manzana y polígono(s) envolventes de la localidad correspondiente; también contiene nombres de calle, rasgos culturales y naturales (cuerpos de agua), y la ubicación de los principales servicios (iglesia, escuela, asistencia médica, palacio municipal o ayudantía, mercado, cementerio y plaza o jardín). Todos los elementos contienen atributos (claves geoestadísticas, fecha de actualización, nombre del elemento geográfico, entre otros). La identificación de las Localidades Amanzanadas está conformada por una clave de 9 dígitos de los cuales los 2 primeros corresponden al estado, los 3 siguientes al municipio y los 4 restantes a la localidad (EEMMMLLLL). 
+
+1.4 Idioma del conjunto de datos espaciales o producto: ES - Español.
+
+1.5 Categoría del tema del conjunto de datos espaciales o producto: 
+
+     1.5.1 Tema principal del conjunto de datos espaciales o producto: 11. Localización: Información posicional y servicios.  
+
+     1.5.2 Grupo de datos del conjunto de datos espaciales o producto: 6. Grupo de datos de límites costeros, internacionales, estatales y municipales: Subdivisión de la Infraestructura de Datos Espaciales de México que representa las fronteras de los espacios territoriales contenedores de datos e información.
+
+1.6 Palabra clave: Michoacán (16)
+
+1.7 Tipo: 2. Lugar: La palabra clave identifica un lugar o ubicación cubierto por el conjunto de datos espaciales o producto.
+
+1.6 Palabra clave: Cartografía Geoestadística
+
+1.7 Tipo: 5. Tema: La palabra clave que identifica un tema o materia particular.
+
+1.8 Nombre del tesauro:  
+
+1.9 Edición:  
+
+1.10 Forma de presentación de los datos espaciales:   5. Mapa digital: Mapa representado en formato raster o vector.
+
+1.11 Enlace en línea:
+
+     1.11.1 URL del recurso: http://www.inegi.org.mx/
+
+     1.11.2 Descripción del acceso al recurso:  
+
+1.12 Frecuencia de mantenimiento y actualización:   8. Irregular: Los datos se actualizan en intervalos desiguales en duración. 
+
+1.13 Conjunto de caracteres:   6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.
+
+1.14 Nombre del archivo gráfico: Cartografía_Geoestadística.JPG
+
+1.15 Uso específico: La Dirección General de Estadísticas Sociodemográficas y la Dirección General de Estadísticas Económicas del INEGI usan la cartografía Geoestadística, para la planeación, levantamiento, tratamiento y difusión de la información estadística de los censos y encuestas que realiza el instituto, manteniendo actualizada la información contenida en los materiales cartográficos, garantizando con ello la cobertura y la correcta georreferencia.
+ 
+
+
+
+SECCIÓN 2. Fechas relacionadas con el conjunto de datos espaciales o producto:
+
+2.1 Fechas y eventos:
+
+     2.1.1 Fecha de referencia del conjunto de datos espaciales o producto: 2016-05-31
+
+     2.1.2 Tipo de fecha: 1. Creación: Indicador  de la fecha que especifica cuando fue creado el recurso.
+
+2.2 Fechas de los insumos tomados para la elaboración del producto o conjunto de datos espaciales:
+
+     2.2.1 Fecha de creación de los insumos: 
+
+     2.2.2 Fecha de inicio de verificación de campo: 
+
+     2.2.3 Fecha final de verificación de campo: 
+
+     2.2.4 Nombre del insumo: 
+
+SECCIÓN 3. Unidad del estado responsable del conjunto de datos espaciales o producto:
+
+3.1 Nombre de la persona de contacto: Lic. José de Jesús Esquivel de la Rosa.
+
+3.2 Nombre de la organización: Instituto Nacional de Estadística y Geografía - INEGI.
+
+3.3 Puesto del contacto: Subdirector de Atención a Usuarios.
+
+3.4 Teléfono: (449)9105300 Ext. 5301. Lada 01 800 111 46 34 (sin costo).
+
+3.5 Fax: 
+
+3.6 Dirección: Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.
+
+3.7 Ciudad: Aguascalientes.
+
+3.8 Área administrativa: Aguascalientes.
+
+3.9 Código postal: 20276.
+
+3.10 País: México.
+
+3.11 Dirección de correo electrónico del contacto: atencion.usuarios@inegi.org.mx
+
+3.12 Enlace en línea (dirección de Internet de referencia): http://www.inegi.org.mx/
+
+3.13 Rol:   5. Distribuidor: Parte que distribuye el recurso.
+
+
+3.1 Nombre de la persona de contacto: Lic. Mario Rubén Chavarría Espinosa 
+
+3.2 Nombre de la organización: Instituto Nacional de Estadística y Geografía - INEGI. 
+
+3.3 Puesto del contacto: Director de Límites y Marco Geoestadístico
+
+3.4 Teléfono: (449)9105300 Ext. 5310
+
+3.5 Fax: 
+
+3.6 Dirección: Av. Héroe de Nacozari Sur Núm. 2301. Fracc. Jardines del Parque
+
+3.7 Ciudad: Aguascalientes
+
+3.8 Área administrativa: Aguascalientes
+
+3.9 Código postal: 20276
+
+3.10 País: México
+
+3.11 Dirección de correo electrónico del contacto: mario.chavarria@inegi.org.mx
+
+3.12 Enlace en línea (dirección de Internet de referencia): http://www.inegi.org.mx/
+
+3.13 Rol:   3. Propietario: Parte que es dueño del recurso.
+
+
+3.1 Nombre de la persona de contacto: Geóg. Miguel Alonso Herrera Canto
+
+3.2 Nombre de la organización: Instituto Nacional de Estadística y Geografía - INEGI
+
+3.3 Puesto del contacto: Subdirector del Marco Geoestadístico 
+
+3.4 Teléfono: (449)9105300 Ext. 5101
+
+3.5 Fax: 
+
+3.6 Dirección: Av. Héroe de Nacozari Sur Núm. 2301. Fracc. Jardines del Parque
+
+3.7 Ciudad: Aguascalientes
+
+3.8 Área administrativa: Aguascalientes
+
+3.9 Código postal: 20276
+
+3.10 País: México
+
+3.11 Dirección de correo electrónico del contacto: miguel.herrera@inegi.org.mx
+
+3.12 Enlace en línea (dirección de Internet de referencia): http://www.inegi.org.mx/
+
+3.13 Rol:   7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.
+
+
+SECCIÓN 4. Localización geográfica del conjunto de datos espaciales o producto:
+
+4.1 Localización geográfica del conjunto de datos espaciales o producto:
+
+     4.1.1 Coordenada límite al oeste: -103.737701677
+
+     4.1.2 Coordenada límite al este: -100.0955584
+
+     4.1.3 Coordenada límite al sur: 17.9150194769
+
+     4.1.4 Coordenada límite al norte: 20.3809141077
+
+4.2 Tipo de representación espacial: 1. Vector: Los datos vectoriales se utilizan para representar datos espaciales.
+
+SECCIÓN 5. Sistema de referencia:
+
+5.1 Sistema de Referencia Horizontal:
+
+     5.1.1 Coordenadas Geográficas:
+
+          5.1.1.1 Resolución de latitud:
+
+          5.1.1.2 Resolución de longitud:
+
+          5.1.1.3 Unidades de coordenadas geográficas:
+
+     5.1.2 Coordenadas Planas:
+
+          5.1.2.1 Proyección Cartográfica:
+
+               5.1.2.1.1 Cónica Conforme de Lambert:
+
+                    5.1.2.1.1.1 Paralelo estándar: 17.5
+
+                    5.1.2.1.1.1 Paralelo estándar: 29.5
+
+                    5.1.2.1.1.2 Longitud del meridiano central: -102.0
+
+                    5.1.2.1.1.3 Latitud del origen de proyección: 12.0
+
+                    5.1.2.1.1.4 Falso este: 2500000.0
+
+                    5.1.2.1.1.5 Falso norte: 0.0
+
+               5.1.2.1.2 Transversa de Mercator:
+
+                    5.1.2.1.2.1 Factor de escala en el meridiano central:  
+
+                    5.1.2.1.2.2 Longitud del meridiano central:  
+
+                    5.1.2.1.2.3 Latitud del origen de proyección:  
+
+                    5.1.2.1.2.4 Falso este:  
+
+                    5.1.2.1.2.5 Falso norte:  
+
+               5.1.2.1.3 Mercator:
+
+                    5.1.2.1.3.1 Paralelo estándar:  
+
+                    5.1.2.1.3.2 Factor de escala en el ecuador:  
+
+                    5.1.2.1.3.3 Longitud del meridiano central:  
+
+                    5.1.2.1.3.4 Falso este:  
+
+                    5.1.2.1.3.5 Falso norte:  
+
+               5.1.2.1.4 Transversa Modificada Ejidal:
+
+                    5.1.2.1.4.1 Factor de escala en el meridiano central:  
+
+                    5.1.2.1.4.2 Longitud del meridiano central:  
+
+                    5.1.2.1.4.3 Latitud del origen de proyección:  
+
+                    5.1.2.1.4.4 Falso este:  
+
+                    5.1.2.1.4.5 Falso norte:  
+
+               5.1.2.1.5 Definición de otra proyección: 
+
+          5.1.2.2 Sistema de Coordenadas de Cuadrícula:
+
+               5.1.2.2.1 Universal Transversa de Mercator:
+
+                    5.1.2.2.1.1 Número de zona UTM:
+
+                    5.1.2.2.1.2 Factor de escala en el meridiano central:
+
+                    5.1.2.2.1.3 Longitud del meridiano central:
+
+                    5.1.2.2.1.4 Latitud del origen de proyección:
+
+                    5.1.2.2.1.5 Falso este:
+
+                    5.1.2.2.1.6 Falso norte:
+
+          5.1.2.3 Plana Local:
+
+               5.1.2.3.1 Descripción de la Plana Local:
+
+               5.1.2.3.2 Información de Georreferencia de la Plana Local:
+
+          5.1.2.4 Información de coordenadas planas:
+
+               5.1.2.4.1 Método codificado de coordenada plana: Par coordenado.
+
+               5.1.2.4.2 Representación de coordenadas:
+
+                    5.1.2.4.2.1 Resolución de abscisa: 0.00000001
+
+                    5.1.2.4.2.2 Resolución de ordenada: 0.00000001
+
+               5.1.2.4.3 Representación de distancia y rumbo:
+
+                    5.1.2.4.3.1 Resolución de distancia:
+
+                    5.1.2.4.3.2 Resolución de rumbo:
+
+                    5.1.2.4.3.3 Unidades de rumbo:
+
+                    5.1.2.4.3.4 Dirección del rumbo de referencia:
+
+                    5.1.2.4.3.5 Meridiano del rumbo de referencia:
+
+               5.1.2.4.4 Unidades de distancia plana: Metros.
+
+     5.1.3 Coordenadas Locales:
+
+          5.1.3.1 Descripción Local:
+
+          5.1.3.2 Información de Georreferenciación Local:
+
+     5.1.4 Modelo geodésico:
+
+5.1.4.1 Nombre del datum horizontal: ITRF08 época 2010.0.
+
+          5.1.4.2 Nombre del elipsoide: Sistema Geodésico de Referencia de 1980 (GRS80).
+
+          5.1.4.3 Semieje mayor: 6378137.0
+
+          5.1.4.4 Factor de denominador de achatamiento: 298.257222101
+
+5.2 Sistema de Referencia Vertical:
+
+     5.2.1 Definición del sistema de altitud:
+
+          5.2.1.1 Nombre del datum de altitud: 
+
+          5.2.1.2 Resolución de altitud: 
+
+          5.2.1.3 Unidades de distancia de altitud: 
+
+          5.2.1.4 Método codificado de altitud:  
+
+     5.2.2 Definición del sistema de profundidad:
+
+          5.2.2.1 Nombre del datum de profundidad: 
+
+          5.2.2.2 Resolución de profundidad: 
+
+          5.2.2.3 Unidades de distancia de profundidad: 
+
+          5.2.2.4 Método codificado de profundidad:  
+
+
+SECCIÓN 6. Calidad de la información:
+
+6.1 Alcance o ámbito:
+
+     6.1.1 Nivel: 17. Producto: Información aplicada al producto.
+
+6.2 Reporte:
+
+     6.2.1 Completitud:
+
+          6.2.1.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.1.1.1 Nombre de la prueba:
+
+               6.2.1.1.2 Descripción de la prueba:
+
+               6.2.1.1.3 Resultado:
+
+                    6.2.1.1.3.1 Resultado cuantitativo:
+
+                         6.2.1.1.3.1.1 Unidad de valor:
+
+                         6.2.1.1.3.1.2 Valor:
+
+     6.2.2 Consistencia lógica:
+
+          6.2.2.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.2.1.1 Nombre de la prueba:
+
+               6.2.2.1.2 Descripción de la prueba:
+
+               6.2.2.1.3 Resultado:
+
+                    6.2.2.1.3.1 Resultado cuantitativo:
+
+                         6.2.2.1.3.1.1 Unidad de valor:
+
+                         6.2.2.1.3.1.2 Valor:
+
+     6.2.3 Exactitud posicional:
+
+          6.2.3.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.3.1.1 Nombre de la prueba:
+
+               6.2.3.1.2 Descripción de la prueba:
+
+               6.2.3.1.3 Resultado:
+
+                    6.2.3.1.3.1 Resultado cuantitativo:
+
+                         6.2.3.1.3.1.1 Unidad de valor:
+
+                         6.2.3.1.3.1.2 Valor:
+
+     6.2.4 Exactitud temporal:
+
+          6.2.4.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.4.1.1 Nombre de la prueba:
+
+               6.2.4.1.2 Descripción de la prueba:
+
+               6.2.4.1.3 Resultado:
+
+                    6.2.4.1.3.1 Resultado cuantitativo:
+
+                         6.2.4.1.3.1.1 Unidad de valor:
+
+                         6.2.4.1.3.1.2 Valor:
+
+     6.2.5 Exactitud temática:
+
+          6.2.5.1 Nombre del subcriterio de calidad evaluado:
+
+               6.2.5.1.1 Nombre de la prueba:
+
+               6.2.5.1.2 Descripción de la prueba:
+
+               6.2.5.1.3 Resultado:
+
+                    6.2.5.1.3.1 Resultado cuantitativo:
+
+                         6.2.5.1.3.1.1 Unidad de valor:
+
+                         6.2.5.1.3.1.2 Valor:
+
+6.3 Linaje:
+
+     6.3.1 Enunciado: El Departamento de Marco Geoestadístico Urbano genera el documento con las especificaciones técnicas de las Localidades Urbanas, el cual se envía a las 10 Direcciones Regionales y Coordinaciones Estatales del INEGI, para su aplicación. Al finalizar las actualizaciones de la información, al cierre de cada evento censal, las Direcciones Regionales envían la información digital al Departamento del Marco Geoestadístico Urbano en Oficinas Centrales, para su revisión y validación cualitativa y cuantitativa, así como para su concentración a nivel nacional.  
+
+     6.3.2 Pasos del proceso:
+
+          6.3.2.1 Descripción: 1.- El Departamento del Marco Geoestadístico Urbano genera el documento metodológico con las características y especificaciones de los productos cartográficos y las aplicaciones para la validación estatal y regional de la información.
+2.- Las especificaciones y las aplicaciones se depositan en una ruta ftp para su uso y aplicación a nivel regional y estatal.
+3.- Los Departamentos Estatales de Actualización Básica actualizan la información cartográfica en campo, actividad de gran importancia ya que permite mantener vigente la información contenida en los materiales cartográficos, garantizando con ello la cobertura y la correcta referencia geográfica.
+4.- Los Departamentos Estatales de Actualización Básica actualizan y asignan claves a los nuevos elementos Geoestadísticos, digitalizan y clasifican la información en formato digital.
+5.- Los Departamentos Estatales de Actualización Básica se aseguran, mediante validación que la cartografía cumpla con las especificaciones cualitativas y cuantitativas; una vez que cumplió el control de calidad al 100% la información es traída de manera automática a oficinas centrales, para su integración y revisión a nivel estatal y nacional.
+6.- En Oficinas Centrales se tomó una muestra aleatoria estatal de la información recibida para verificar que esté correctamente georreferenciada y verificar que cumpla con todos los requerimientos metodológicos del evento.
+7.- Las inconsistencias encontradas son notificadas y regresadas a los Departamentos encargados del Marco Geoestadístico de la Dirección Regional correspondiente para su corrección. 
+8.- Una vez que liberan las Localidades, se procede a la generación de los formatos para su distribución a los usuarios externos e internos y al respaldo de la información.  
+
+
+          6.3.2.1 Descripción: Completitud
+Omisión (ausencias indebidas)
+Se realizó una confronta contra el Catalogo de Integral General de Localidades (CIGEL),  se tomaron todas las localidades Urbanas y Rurales que contengan manzanas. Existe el 100%, sin que se permita una localidad como faltante. 
+Topológica
+Cumplir reglas topológicas.
+Con sistema automatizado se verificó que NO existan duplicidad de polígonos, líneas y puntos.
+Traslapes y huecos. El resultado cuantitativo es hasta un metro de tolerancia.
+Temática
+Validación tabular y de atributos.
+Con sistema automatizado se comprobó que los valores de atributo correspondieran con el dominio establecido en el diccionario de datos. Existe el 100% sin faltantes.
+Posicional
+Se realiza una confronta del conjunto vectorial contra imágenes de  satélite; obteniendo el 100% en su posición verdadera.
+
+     6.3.3 Fuente:
+
+          6.3.3.1 Descripción: Cartografía Geoestadística Urbana y Rural Amanzanada. Cierre de la Encuesta Intercensal 2015.
+
+SECCIÓN 7. Entidades y atributos:
+
+7.1 Descripción general de entidades y atributos: Los rasgos geográficos representados se definen como entidades con un componente de representación geométrica y un componente con atributos que los
+describen. Se le asocia un nombre con el fin de distinguirla de otras entidades (Manzana, AGEB, etc.)
+7.2 Cita del detalle de entidades y atributos: 
+ESTADO 16
+   TIPO DE ENTIDAD                         	PUNTO	LINEA	AREA	TOTAL
+Acueducto                                	0	4	0	4
+Aeródromo Civil                         	0	0	1	1
+Bordo                                    	0	2	0	2
+Bordo                                    	0	0	866	866
+Camellón                                	0	0	2842	2842
+Canal                                    	0	3253	0	3253
+Cementerio                               	0	0	8	8
+Cementerio                               	659	0	0	659
+Centro Comercial                         	17	0	0	17
+Centro de Asistencia Médica             	0	0	2	2
+Centro de Asistencia Médica             	1450	0	0	1450
+Conducto                                 	0	10	0	10
+Corriente de Agua                        	0	12285	0	12285
+Cuerpo de Agua                           	0	0	110	110
+Depósito de Desechos                    	2	0	0	2
+Edificación                             	3	0	0	3
+Edificación                             	0	0	11	11
+Escuela                                  	0	0	18	18
+Escuela                                  	8195	0	0	8195
+Estanque                                 	1	0	0	1
+Estanque                                 	0	0	23	23
+Estructura Elevada                       	71	0	0	71
+Faro/Radiofaro/VOR                       	2	0	0	2
+Frente de Manzana                        	0	504386	0	504386
+Instalación Deportiva o Recreativa      	0	0	589	589
+Instalación Deportiva o Recreativa      	3852	0	0	3852
+Instalación Diversa                     	0	0	44	44
+Instalación Diversa                     	87	0	0	87
+Instalación Industrial                  	0	0	3	3
+Instalación Portuaria                   	0	2	0	2
+Instalación de Bombeo                   	0	0	1	1
+Instalación de Bombeo                   	29	0	0	29
+Instalación de Comunicación            	340	0	0	340
+Lindero                                  	0	605	0	605
+Localidad                                	0	0	2709	2709
+Línea de Costa                          	0	12	0	12
+Línea de Transmisión                   	0	11	0	11
+Línea de Tren Metropolitano             	0	1	0	1
+Manantial                                	47	0	0	47
+Mercado                                  	0	0	1	1
+Mercado                                  	209	0	0	209
+Palacio de Gobierno                      	0	0	2	2
+Palacio de Gobierno                      	360	0	0	360
+Paso a Desnivel                          	0	20	0	20
+Pista de Aviación                       	0	0	2	2
+Pista de Aviación                       	0	2	0	2
+Plaza                                    	0	0	183	183
+Plaza                                    	1628	0	0	1628
+Pozo                                     	821	0	0	821
+Presa                                    	0	0	26	26
+Presa                                    	0	97	0	97
+Puente                                   	0	6336	0	6336
+Rasgo Arqueológico                      	3	0	0	3
+Subestación Eléctrica                  	0	0	2	2
+Subestación Eléctrica                  	4	0	0	4
+Tanque                                   	2	0	0	2
+Tanque de Agua                           	0	0	5	5
+Tanque de Agua                           	2573	0	0	2573
+Templo                                   	0	0	2	2
+Templo                                   	3903	0	0	3903
+Vialidad                                 	0	294612	0	294612
+Vía Férrea                             	0	184	0	184
+Área Geoestadística Básica            	0	0	2667	2667
+Área Verde                              	0	0	211	211
+                                         	24258	821822	10328	856408
+
+
+SECCIÓN 8. Distribución:
+
+8.1 Restricciones de acceso: 8. Acceso al público a través de Internet y los Centros de Información del Instituto Nacional de Estadística y Geografía - INEGI
+
+8.2 Restricciones de uso: 8. Ninguna
+
+8.3 Responsabilidad de distribución: El INEGI, no se hace responsable del uso que usted le dé a los datos
+
+8.4 Formato de distribución:
+
+     8.4.1 Nombre del formato:  Shape
+
+     8.4.2 Versión del formato: No aplica
+
+
+SECCIÓN 9. Información del contacto para los metadatos:
+
+9.1 Nombre del estándar de metadatos: ISO 19115 Información Geográfica - Metadatos (Norma Técnica para Metadatos).
+
+9.2 Versión de la norma de metadatos: 2003 (1.0).
+
+9.3 Idioma de los Metadatos: ES - Español.
+
+9.4 Punto de contacto para los Metadatos: 
+
+     9.4.1 Nombre de la persona de contacto: Lic. Rafael Arrioja Urzúa.
+
+     9.4.2 Nombre de la organización: Instituto Nacional de Estadística y Geografía - INEGI.
+
+     9.4.3 Puesto del contacto: Jefe del Departamento de Administración de Metadatos.
+
+     9.4.4 Teléfono: (449)9105300 Ext. 1750 y 5631.
+
+     9.4.5 Fax: 
+
+     9.4.6 Dirección: Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.
+
+     9.4.7 Ciudad: Aguascalientes.
+
+     9.4.8 Área administrativa: Aguascalientes.
+
+     9.4.9 Código postal: 20276
+
+     9.4.10 País: México
+
+     9.4.11 Dirección de correo electrónico del contacto: rafael.arrioja@inegi.org.mx
+
+     9.4.12 Rol:   7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.
+
+9.5 Fecha de los metadatos: 2016-07-04
+
+9.6 Conjunto de caracteres:   6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.
+
