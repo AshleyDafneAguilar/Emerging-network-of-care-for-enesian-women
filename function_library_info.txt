@@ -1,2 +1,6 @@
 - Pandas is a Python library specialized in data manipulation and analysis that provides data structures and operations for manipulating numerical tables and time series.
-- 
+- GeoPandas is another extension of the Pandas data library, whose main function is the management of geospatial data. Some of its functions are: read and write spatial data of multiple formats, measure areas and distances, analyze spatial relationships of different geometries, among others. With it we will make the map. 
+- The Contextily library is a tool that allows you to add basemap images to Python-generated graphics. These basemaps come from different providers, such as OpenStreetMap, Stamen Maps and Mapbox. It is especially useful for users who are not familiar with obtaining and processing basemap images.
+- The Matplotlib library is one of the main Python data visualization tools used to generate various graphs.
+
+
