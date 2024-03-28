@@ -1,0 +1,2 @@
+- Pandas is a Python library specialized in data manipulation and analysis that provides data structures and operations for manipulating numerical tables and time series.
+- 
